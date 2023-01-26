@@ -46,8 +46,12 @@ function search($searchField) {
       res.colors
         .filter((colorEntry) => {
           return (
-            colorEntry.ttc.toLowerCase().includes($searchField.value) ||
-            colorEntry.cit.toLowerCase().includes($searchField.value)
+            colorEntry.ttc
+              .toLowerCase()
+              .includes($searchField.value.toLowerCase()) ||
+            colorEntry.cit
+              .toLowerCase()
+              .includes($searchField.value.toLowerCase())
           );
         })
         .forEach((colorEntry) => {
