@@ -1,0 +1,128 @@
+* {
+  margin: 0;
+  padding: 0;
+  outline: 0;
+  border: 0;
+}
+html {
+  font-size: 62.5%;
+}
+h1 {
+  font-size: calc(3rem + 1vw);
+}
+h2 {
+  font-size: calc(1.5rem + 1vw);
+  font-weight: 100;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+h3 {
+  font-size: calc(2rem + 1vw);
+  font-weight: 400;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  color: rgb(221, 118, 171);
+}
+h4 {
+  font-size: calc(1rem + 1vw);
+  font-weight: 100;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+.menu {
+  padding: 1rem;
+  min-height: 10vh;
+  background-color: black;
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-flow: column wrap;
+  gap: 1rem;
+}
+.content {
+  padding: 1rem;
+  display: flex;
+  flex-flow: column wrap;
+  justify-content: flex-start;
+  gap: 2rem;
+  align-items: stretch;
+  min-height: 80vh;
+}
+.search {
+  display: flex;
+  width: 100%;
+  justify-content: center;
+  gap: 3rem;
+  align-items: flex-start;
+}
+.item {
+  display: flex;
+  flex-flow: column wrap;
+  justify-content: center;
+  align-items: center;
+  padding: 1rem;
+  flex: 1 1 30rem;
+  background-color: rgb(36, 2, 2);
+  color: white;
+  min-height: 20rem;
+  gap: 3rem;
+}
+.galleryList {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: space-between;
+  gap: 1rem;
+  align-items: center;
+}
+.ttc,
+.citadel {
+  display: grid;
+  grid-gap: 3rem;
+  grid-template-columns: 3fr 1fr;
+}
+.ttc img,
+.citadel img {
+  width: 5rem;
+  transition: all 0.3s ease-in-out;
+  cursor: pointer;
+}
+.ttc img:hover,
+.citadel img:hover {
+  transform: rotateZ(-15deg);
+}
+.outro {
+  min-height: 10vh;
+  background-color: black;
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.outro a {
+  color: rgb(235, 217, 104);
+}
+#searchField {
+  min-width: 20rem;
+  font-size: calc(1.2rem + 1vw);
+  background-color: rgba(0, 0, 0, 0.148);
+  color: rgb(41, 2, 2);
+  padding: 1rem;
+  min-height: 3rem;
+  flex: 2 1 10rem;
+}
+#btnSearch {
+  font-size: calc(1.2rem + 1vw);
+  padding: 1rem;
+  min-height: 3rem;
+  flex: 1 1 10rem;
+  background-color: rgb(235, 217, 104);
+  border-bottom: 0.5rem solid rgba(0, 0, 0, 0.2);
+  border-right: 0.5rem solid rgba(0, 0, 0, 0.2);
+  cursor: pointer;
+  transition: all 1s ease;
+}
+#btnSearch:hover,
+#btnSearch:focus {
+  background-color: rgb(233, 222, 148);
+  transform: translate(0, 1rem);
+}
