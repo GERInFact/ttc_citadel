@@ -16,7 +16,7 @@ function createCard(twoThinCoats, citadel, $parent) {
   aT.href = "https://www.duncanrhodes.com/ttc-paints/";
   aT.target = "_blank";
   imgT.src =
-    "https://gerinfact.github.io/ttc_citadel/img/cropped-Sir-Coates-Logo-small-175px-x-175px.png";
+    "https://www.duncanrhodes.com/wp-content/uploads/2022/10/cropped-Sir-Coates-Logo-small-175px-x-175px.png";
   ttc.innerText = twoThinCoats;
   aT.appendChild(imgT);
   ttc.appendChild(aT);
@@ -27,7 +27,7 @@ function createCard(twoThinCoats, citadel, $parent) {
   a.target = "_blank";
   const imgC = document.createElement("img");
   imgC.src =
-    "https://gerinfact.github.io/ttc_citadel/img/citadel-colour-logo.png";
+    "https://citadelcolour.com/wp-content/themes/gw-citadel-colour/assets/images/citadel-colour-logo.png";
   cit.innerText = citadel;
   a.appendChild(imgC);
   cit.appendChild(a);
