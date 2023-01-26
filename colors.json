@@ -1,0 +1,244 @@
+{
+  "colors": [
+    {
+      "ttc": "Berserker Red",
+      "cit": "Word Bearers Red"
+    },
+    {
+      "ttc": "Sanguine Scarlet",
+      "cit": "Mephiston Red"
+    },
+    {
+      "ttc": "Demon Red",
+      "cit": "Evil Sun Red"
+    },
+    {
+      "ttc": "Dark Sun Yellow",
+      "cit": "Averland Sunset"
+    },
+    {
+      "ttc": "Skulker Yellow",
+      "cit": "Yriel Yellow"
+    },
+    {
+      "ttc": "Yellow Flame",
+      "cit": "Flash Gitz Yellow"
+    },
+    {
+      "ttc": "Marine Blue",
+      "cit": "Macragge Blue"
+    },
+    {
+      "ttc": "Elysium Blue",
+      "cit": "Ultramarine Blue"
+    },
+    {
+      "ttc": "Celestial Blue",
+      "cit": "Blue Horror"
+    },
+    {
+      "ttc": "Rust Orange",
+      "cit": "Squig Orange"
+    },
+    {
+      "ttc": "Fanatic Orange",
+      "cit": "Troll Slayer Orange"
+    },
+    {
+      "ttc": "Orange Flare",
+      "cit": "Fie Dragon Bright"
+    },
+    {
+      "ttc": "Wyvern Green",
+      "cit": "Caliban Green"
+    },
+    {
+      "ttc": "EMERALD GREEN",
+      "cit": "Warpstone Glow  "
+    },
+    {
+      "ttc": "ETHEREAL GREEN",
+      "cit": "Moot Green  "
+    },
+    {
+      "ttc": "AMETHYST RAYNE",
+      "cit": "Xereus Purple  "
+    },
+    {
+      "ttc": "SORCEROR'S CLOAK",
+      "cit": "Genestealer Purple  "
+    },
+    {
+      "ttc": "RUNIC PURPLE",
+      "cit": "Kakophoni Purple  "
+    },
+    {
+      "ttc": "DOOM DEATH BLACK",
+      "cit": "Abaddon Black  "
+    },
+    {
+      "ttc": "DEATH REAPER",
+      "cit": "Corvus Black  "
+    },
+    {
+      "ttc": "DUNGEON STONE GREY",
+      "cit": "Mechanicus Standard Grey"
+    },
+    {
+      "ttc": "WIZARD GREY",
+      "cit": "Dawnstone  "
+    },
+    {
+      "ttc": "CARCHARODON GREY",
+      "cit": "Administratum Grey  "
+    },
+    {
+      "ttc": "WHITE STAR",
+      "cit": "White Scar  "
+    },
+    {
+      "ttc": "BARBARIAN BRAWN",
+      "cit": "Bugman's Glow  "
+    },
+    {
+      "ttc": "DWARVEN SKIN",
+      "cit": "Cadian Fleshtone  "
+    },
+    {
+      "ttc": "ELVEN SKIN",
+      "cit": "Kislev Flesh  "
+    },
+    {
+      "ttc": "CUIRASS LEATHER",
+      "cit": "Rhinox Hide  "
+    },
+    {
+      "ttc": "BOAR HIDE",
+      "cit": "Doombull Brown  "
+    },
+    {
+      "ttc": "FUR CLOAK",
+      "cit": "Tuskgor Fur  "
+    },
+    {
+      "ttc": "DRAGON FANG",
+      "cit": "Zandri Dust  "
+    },
+    {
+      "ttc": "SKELETON LEGION",
+      "cit": "Ushabti Bone  "
+    },
+    {
+      "ttc": "VAMPIRE FANG",
+      "cit": "Screamina Skull  "
+    },
+    {
+      "ttc": "GRIFFON CLAW",
+      "cit": "Rakarth Flesh  "
+    },
+    {
+      "ttc": "IVORY TUSK",
+      "cit": "Pallid Wuch Flesh  "
+    },
+    {
+      "ttc": "TROOPER WHITE",
+      "cit": "Corax White  "
+    },
+    {
+      "ttc": "DUST BOWL",
+      "cit": "Steel Legion Drab  "
+    },
+    {
+      "ttc": "SANDSTONE",
+      "cit": "Morghast Bone  "
+    },
+    {
+      "ttc": "TEMPLE STONE",
+      "cit": "Karak Stone  "
+    },
+    {
+      "ttc": "SIR COATES SILVER",
+      "cit": "Leadbelcher  "
+    },
+    {
+      "ttc": "PLATE ARMOUR",
+      "cit": "Ironbreaker  "
+    },
+    {
+      "ttc": "MYTHRIL BLADE",
+      "cit": "Stormhost Silver  "
+    },
+    {
+      "ttc": "SPARTAN BRONZE",
+      "cit": "Balthazar Gold  "
+    },
+    {
+      "ttc": "DRAGON'S GOLD",
+      "cit": "Retributor Armour  "
+    },
+    {
+      "ttc": "GLISTENING GOLD",
+      "cit": "Liberator Gold  "
+    },
+    {
+      "ttc": "ROYAL CLOAK",
+      "cit": "Barak-Nar Burgundy  "
+    },
+    {
+      "ttc": "SWORD HILT BURGUNDY",
+      "cit": "Screamer Pink  "
+    },
+    {
+      "ttc": "GLISTENING GUMS",
+      "cit": "Pink Horror  "
+    },
+    {
+      "ttc": "COLD CORPSE BLUE",
+      "cit": "The Fana  "
+    },
+    {
+      "ttc": "WOLF GREY",
+      "cit": "Russ Grey  "
+    },
+    {
+      "ttc": "GRAVESTONE BLUE",
+      "cit": "Fenrisian Grey  "
+    },
+    {
+      "ttc": "SCORCHED EARTH",
+      "cit": "Dryad Bark  "
+    },
+    {
+      "ttc": "ANCIENT FOREST",
+      "cit": "Gorthor Brown  "
+    },
+    {
+      "ttc": "WASTELAND BROWN",
+      "cit": "Baneblade Brown  "
+    },
+    {
+      "ttc": "OBLIVION BLACK WASH",
+      "cit": "Nuln Oil (Citaden)"
+    },
+    {
+      "ttc": "BATTLE MUD WASH",
+      "cit": "Agrax Earthshade  "
+    },
+    {
+      "ttc": "FLESH WASH",
+      "cit": "Reikland Fleshshade"
+    },
+    {
+      "ttc": "ORC FLESH WASHI",
+      "cit": "Biel-Tan Green  "
+    },
+    {
+      "ttc": "NECROSIS GREEN WASH",
+      "cit": "Athonian Camoshade  "
+    },
+    {
+      "ttc": "ARCHAIC SEPIA WASH",
+      "cit": "Seraphim Sepia"
+    }
+  ]
+}
