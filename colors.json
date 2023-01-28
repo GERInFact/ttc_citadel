@@ -2,243 +2,303 @@
   "colors": [
     {
       "ttc": "Berserker Red",
-      "cit": "Word Bearers Red"
+      "cit": "Word Bearers Red",
+      "color": "#4D1B16"
     },
     {
       "ttc": "Sanguine Scarlet",
-      "cit": "Mephiston Red"
+      "cit": "Mephiston Red",
+      "color": "#961914"
     },
     {
       "ttc": "Demon Red",
-      "cit": "Evil Sun Red"
+      "cit": "Evil Sun Red",
+      "color": "#D21215"
     },
     {
       "ttc": "Dark Sun Yellow",
-      "cit": "Averland Sunset"
+      "cit": "Averland Sunset",
+      "color": "#C48638"
     },
     {
       "ttc": "Skulker Yellow",
-      "cit": "Yriel Yellow"
+      "cit": "Yriel Yellow",
+      "color": "#F59E02"
     },
     {
       "ttc": "Yellow Flame",
-      "cit": "Flash Gitz Yellow"
+      "cit": "Flash Gitz Yellow",
+      "color": "#F8B02C"
     },
     {
       "ttc": "Marine Blue",
-      "cit": "Macragge Blue"
+      "cit": "Macragge Blue",
+      "color": "#A0A4A1"
     },
     {
       "ttc": "Elysium Blue",
-      "cit": "Ultramarine Blue"
+      "cit": "Ultramarine Blue",
+      "color": "#5179AC"
     },
     {
       "ttc": "Celestial Blue",
-      "cit": "Blue Horror"
+      "cit": "Blue Horror",
+      "color": "#6992C0"
     },
     {
       "ttc": "Rust Orange",
-      "cit": "Squig Orange"
+      "cit": "Squig Orange",
+      "color": "#BA4D37"
     },
     {
       "ttc": "Fanatic Orange",
-      "cit": "Troll Slayer Orange"
+      "cit": "Troll Slayer Orange",
+      "color": "#D94A2F"
     },
     {
       "ttc": "Orange Flare",
-      "cit": "Fie Dragon Bright"
+      "cit": "Fie Dragon Bright",
+      "color": "#F29D7B"
     },
     {
       "ttc": "Wyvern Green",
-      "cit": "Caliban Green"
+      "cit": "Caliban Green",
+      "color": "#404A42"
     },
     {
       "ttc": "EMERALD GREEN",
-      "cit": "Warpstone Glow  "
+      "cit": "Warpstone Glow  ",
+      "color": "#3C5C43"
     },
     {
       "ttc": "ETHEREAL GREEN",
-      "cit": "Moot Green  "
+      "cit": "Moot Green  ",
+      "color": "#56802E"
     },
     {
       "ttc": "AMETHYST RAYNE",
-      "cit": "Xereus Purple  "
+      "cit": "Xereus Purple  ",
+      "color": "#524169"
     },
     {
       "ttc": "SORCEROR'S CLOAK",
-      "cit": "Genestealer Purple  "
+      "cit": "Genestealer Purple  ",
+      "color": "#79588D"
     },
     {
       "ttc": "RUNIC PURPLE",
-      "cit": "Kakophoni Purple  "
+      "cit": "Kakophoni Purple  ",
+      "color": "#9C8CB3"
     },
     {
       "ttc": "DOOM DEATH BLACK",
-      "cit": "Abaddon Black  "
+      "cit": "Abaddon Black  ",
+      "color": "#3D3937"
     },
     {
       "ttc": "DEATH REAPER",
-      "cit": "Corvus Black  "
+      "cit": "Corvus Black  ",
+      "color": "#434142"
     },
     {
       "ttc": "DUNGEON STONE GREY",
-      "cit": "Mechanicus Standard Grey"
+      "cit": "Mechanicus Standard Grey",
+      "color": "#5C5E60"
     },
     {
       "ttc": "WIZARD GREY",
-      "cit": "Dawnstone  "
+      "cit": "Dawnstone  ",
+      "color": "#6D6C6C"
     },
     {
       "ttc": "CARCHARODON GREY",
-      "cit": "Administratum Grey  "
+      "cit": "Administratum Grey  ",
+      "color": "#959596"
     },
     {
       "ttc": "WHITE STAR",
-      "cit": "White Scar  "
+      "cit": "White Scar  ",
+      "color": "#F8F9F8"
     },
     {
       "ttc": "BARBARIAN BRAWN",
-      "cit": "Bugman's Glow  "
+      "cit": "Bugman's Glow  ",
+      "color": "#8F5F55"
     },
     {
       "ttc": "DWARVEN SKIN",
-      "cit": "Cadian Fleshtone  "
+      "cit": "Cadian Fleshtone  ",
+      "color": "#B07C62"
     },
     {
       "ttc": "ELVEN SKIN",
-      "cit": "Kislev Flesh  "
+      "cit": "Kislev Flesh  ",
+      "color": "#C49774"
     },
     {
       "ttc": "CUIRASS LEATHER",
-      "cit": "Rhinox Hide  "
+      "cit": "Rhinox Hide  ",
+      "color": "#52433A"
     },
     {
       "ttc": "BOAR HIDE",
-      "cit": "Doombull Brown  "
+      "cit": "Doombull Brown  ",
+      "color": "#73453A"
     },
     {
       "ttc": "FUR CLOAK",
-      "cit": "Tuskgor Fur  "
+      "cit": "Tuskgor Fur  ",
+      "color": "#92534E"
     },
     {
       "ttc": "DRAGON FANG",
-      "cit": "Zandri Dust  "
+      "cit": "Zandri Dust  ",
+      "color": "#9E8460"
     },
     {
       "ttc": "SKELETON LEGION",
-      "cit": "Ushabti Bone  "
+      "cit": "Ushabti Bone  ",
+      "color": "#B0966C"
     },
     {
       "ttc": "VAMPIRE FANG",
-      "cit": "Screamina Skull  "
+      "cit": "Screamina Skull  ",
+      "color": "#CCB899"
     },
     {
       "ttc": "GRIFFON CLAW",
-      "cit": "Rakarth Flesh  "
+      "cit": "Rakarth Flesh  ",
+      "color": "#9F8F85"
     },
     {
       "ttc": "IVORY TUSK",
-      "cit": "Pallid Wuch Flesh  "
+      "cit": "Pallid Wuch Flesh  ",
+      "color": "#D2C8C0"
     },
     {
       "ttc": "TROOPER WHITE",
-      "cit": "Corax White  "
+      "cit": "Corax White  ",
+      "color": "#EDEBE0"
     },
     {
       "ttc": "DUST BOWL",
-      "cit": "Steel Legion Drab  "
+      "cit": "Steel Legion Drab  ",
+      "color": "#7E634B"
     },
     {
       "ttc": "SANDSTONE",
-      "cit": "Morghast Bone  "
+      "cit": "Morghast Bone  ",
+      "color": "#927B68"
     },
     {
       "ttc": "TEMPLE STONE",
-      "cit": "Karak Stone  "
+      "cit": "Karak Stone  ",
+      "color": "#A39179"
     },
     {
       "ttc": "SIR COATES SILVER",
-      "cit": "Leadbelcher  "
+      "cit": "Leadbelcher  ",
+      "color": "#494A4A"
     },
     {
       "ttc": "PLATE ARMOUR",
-      "cit": "Ironbreaker  "
+      "cit": "Ironbreaker  ",
+      "color": "#757677"
     },
     {
       "ttc": "MYTHRIL BLADE",
-      "cit": "Stormhost Silver  "
+      "cit": "Stormhost Silver  ",
+      "color": "#818283"
     },
     {
       "ttc": "SPARTAN BRONZE",
-      "cit": "Balthazar Gold  "
+      "cit": "Balthazar Gold  ",
+      "color": "#604332"
     },
     {
       "ttc": "DRAGON'S GOLD",
-      "cit": "Retributor Armour  "
+      "cit": "Retributor Armour  ",
+      "color": "#4F442C"
     },
     {
       "ttc": "GLISTENING GOLD",
-      "cit": "Liberator Gold  "
+      "cit": "Liberator Gold  ",
+      "color": "#5C5241"
     },
     {
       "ttc": "ROYAL CLOAK",
-      "cit": "Barak-Nar Burgundy  "
+      "cit": "Barak-Nar Burgundy  ",
+      "color": "#5B4349"
     },
     {
       "ttc": "SWORD HILT BURGUNDY",
-      "cit": "Screamer Pink  "
+      "cit": "Screamer Pink  ",
+      "color": "#773D4B"
     },
     {
       "ttc": "GLISTENING GUMS",
-      "cit": "Pink Horror  "
+      "cit": "Pink Horror  ",
+      "color": "#995879"
     },
     {
       "ttc": "COLD CORPSE BLUE",
-      "cit": "The Fana  "
+      "cit": "The Fana  ",
+      "color": "#51555C"
     },
     {
       "ttc": "WOLF GREY",
-      "cit": "Russ Grey  "
+      "cit": "Russ Grey  ",
+      "color": "#627688"
     },
     {
       "ttc": "GRAVESTONE BLUE",
-      "cit": "Fenrisian Grey  "
+      "cit": "Fenrisian Grey  ",
+      "color": "#7C8897"
     },
     {
       "ttc": "SCORCHED EARTH",
-      "cit": "Dryad Bark  "
+      "cit": "Dryad Bark  ",
+      "color": "#5A4D49"
     },
     {
       "ttc": "ANCIENT FOREST",
-      "cit": "Gorthor Brown  "
+      "cit": "Gorthor Brown  ",
+      "color": "#725B52"
     },
     {
       "ttc": "WASTELAND BROWN",
-      "cit": "Baneblade Brown  "
+      "cit": "Baneblade Brown  ",
+      "color": "#856C5C"
     },
     {
       "ttc": "OBLIVION BLACK WASH",
-      "cit": "Nuln Oil (Citaden)"
+      "cit": "Nuln Oil",
+      "color": "#3C3A3A"
     },
     {
       "ttc": "BATTLE MUD WASH",
-      "cit": "Agrax Earthshade  "
+      "cit": "Agrax Earthshade  ",
+      "color": "#756659"
     },
     {
       "ttc": "FLESH WASH",
-      "cit": "Reikland Fleshshade"
+      "cit": "Reikland Fleshshade",
+      "color": "#BB9B66"
     },
     {
       "ttc": "ORC FLESH WASHI",
-      "cit": "Biel-Tan Green  "
+      "cit": "Biel-Tan Green  ",
+      "color": "#3E7C41"
     },
     {
       "ttc": "NECROSIS GREEN WASH",
-      "cit": "Athonian Camoshade  "
+      "cit": "Athonian Camoshade  ",
+      "color": "#718362"
     },
     {
       "ttc": "ARCHAIC SEPIA WASH",
-      "cit": "Seraphim Sepia"
+      "cit": "Seraphim Sepia",
+      "color": "#9A7B66"
     }
   ]
 }
