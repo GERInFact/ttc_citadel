@@ -20,7 +20,7 @@ h3 {
   font-weight: 400;
   font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
     "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
-  color: rgb(221, 118, 171);
+  color: rgb(41, 3, 12);
 }
 h4 {
   font-size: calc(1rem + 1vw);
@@ -64,7 +64,7 @@ h4 {
   flex: 1 1 30rem;
   background-color: rgb(36, 2, 2);
   color: white;
-  min-height: 20rem;
+  min-height: 30rem;
   gap: 3rem;
 }
 .galleryList {
@@ -79,6 +79,8 @@ h4 {
   display: grid;
   grid-gap: 3rem;
   grid-template-columns: 3fr 1fr;
+  text-shadow: 0.1rem 0.1rem rgba(0, 0, 0, 0.582),
+    0.2rem 0.2rem rgba(171, 233, 199, 0.575);
 }
 .ttc img,
 .citadel img {

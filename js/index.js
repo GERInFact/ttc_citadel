@@ -6,9 +6,10 @@ $btnSearch.addEventListener("click", () => search($searchField));
 
 search($searchField);
 
-function createCard(twoThinCoats, citadel, $parent) {
+function createCard(twoThinCoats, citadel, colorCode, $parent) {
   const list = document.createElement("li");
   list.classList.add("item");
+  list.style.backgroundColor = colorCode;
 
   const ttc = document.createElement("h3");
   const imgT = document.createElement("img");
@@ -40,11 +41,12 @@ function createCard(twoThinCoats, citadel, $parent) {
 
 function search($searchField) {
   $galleryList.innerHTML = "";
-  fetch("https://gerinfact.github.io/ttc_citadel/colors.json")
+  fetch("https://gerinfact.github.io/ttc_citadel//colors.json")
     .then((data) => data.json())
     .then((res) => {
       res.colors
         .filter((colorEntry) => {
+          console.log(colorEntry);
           return (
             colorEntry.ttc
               .toLowerCase()
@@ -55,7 +57,12 @@ function search($searchField) {
           );
         })
         .forEach((colorEntry) => {
-          createCard(colorEntry.ttc, colorEntry.cit, $galleryList);
+          createCard(
+            colorEntry.ttc,
+            colorEntry.cit,
+            colorEntry.color,
+            $galleryList
+          );
         });
     })
     .catch((err) => console.log(err.message));
