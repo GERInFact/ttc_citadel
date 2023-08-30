@@ -21,6 +21,7 @@ h3 {
   font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
     "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
   color: rgb(41, 3, 12);
+  text-transform: uppercase;
 }
 h4 {
   font-size: calc(1rem + 1vw);
