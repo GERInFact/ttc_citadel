@@ -314,6 +314,290 @@
       "ttc": "Neo Pink",
       "cit": "Fulgrim Pink",
       "color": "#f3bcd7"
+    },
+    {
+      "ttc": "DREAD RED",
+      "cit": "Gal Vorbak Red",
+      "color": "#6f3f3f"
+    },
+    {
+      "ttc": "Asmodeus Redi",
+      "cit": "Khorne Red",
+      "color": "#8e4847"
+    },
+    {
+      "ttc": "Evil Eye Red",
+      "cit": "Wazdakka Redi",
+      "color": "#c15e50"
+    },
+     {
+      "ttc": "Sentient Turquoise",
+      "cit": "Thousand Sons Blue",
+      "color": "#3a84a2"
+    },
+      {
+      "ttc": "Cursed Blue",
+      "cit": "Ahriman Blue",
+      "color": "#4199b4"
+    },
+      {
+      "ttc": "Ray Gun Blue",
+      "cit": "Baharroth Blue",
+      "color": "#47b0c3"
+    },
+      {
+      "ttc": "Abyss Blue",
+      "cit": "Kantor Blue",
+      "color": "#344b67"
+    },
+      {
+      "ttc": "Witching Hour Blue",
+      "cit": "Caledor Sky",
+      "color": #326ab4""
+    },
+      {
+      "ttc": "Leviathan Blue",
+      "cit": "Hoeth Blue",
+      "color": "#3a7cbf"
+    },
+      {
+      "ttc": "Orc Hide",
+      "cit": "Waaagh! Flesh",
+      "color": "#7b9c69"
+    },
+      {
+      "ttc": "Goblinoid Green",
+      "cit": "Warboss Green",
+      "color": "#8ab86a"
+    },
+      {
+      "ttc": "Troll Snot Green",
+      "cit": "Skarsnik Green",
+      "color": "#9dc576"
+    },
+      {
+      "ttc": "Field Grey",
+      "cit": "Vulkan Green",
+      "color": "#6d725e"
+    },
+      {
+      "ttc": "Ranger Cloak",
+      "cit": "Sons of Horus Green",
+      "color": "#7e8352"
+    },
+      {
+      "ttc": "Kobold Grey",
+      "cit": "Krieg Khaki",
+      "color": "#868b75"
+    },
+      {
+      "ttc": "Fury Green",
+      "cit": "Castellan Green",
+      "color": "#6c6c4c"
+    },
+      {
+      "ttc": "Gung-Ho Green",
+      "cit": "Loren Forest",
+      "color": "#a8a264"
+    },
+      {
+      "ttc": "Green Beret",
+      "cit": "Starken Green",
+      "color": "#abac87"
+    },
+      {
+      "ttc": "Hydra Green",
+      "cit": "Incubi Darkness",
+      "color": "#354c4e"
+    },
+      {
+      "ttc": "Jade Green",
+      "cit": "Kabalite Green",
+      "color": "#2f7967"
+    },
+      {
+      "ttc": "Ghoul Green",
+      "cit": "Sybarite Green",
+      "color": "#52bd97"
+    },
+      {
+      "ttc": "Ashen Grey",
+      "cit": "Eshin Grey",
+      "color": "#4f5249"
+    },
+      {
+      "ttc": "Eidolon Grey",
+      "cit": "Skavenblight Dinge",
+      "color": "#535549"
+    },
+      {
+      "ttc": "Rodent Grey",
+      "cit": "Sormvermin Fur",
+      "color": "#707264"
+    },
+      {
+      "ttc": "Noble Steed Brown",
+      "cit": "Mournfang Brown",
+      "color": "#765439"
+    },
+      {
+      "ttc": "Dry Rust Brown",
+      "cit": "Skrag Brown",
+      "color": "#b97740"
+    },
+      {
+      "ttc": "Satyr Brown",
+      "cit": "Deathclaw Brown",
+      "color": "#d59658"
+    },
+    {
+      "ttc": "Gyzmo Fur",
+      "cit": "XV-88",
+      "color": "#d38a51"
+    },
+    {
+      "ttc": "Manticore Ochre",
+      "cit": "Tau Light Ochre",
+      "color": "#d79845"
+    },
+    {
+      "ttc": "Cerberus Brown",
+      "cit": "Ungor Flesh",
+      "color": "#e0ae59"
+    },
+     {
+      "ttc": "Argonaut Skin",
+      "cit": "-",
+      "color": "#a78e6d"
+    },
+     {
+      "ttc": "Kronos Flesh",
+      "cit": "-",
+      "color": "#c09b70"
+    },
+     {
+      "ttc": "Ares Flesh",
+      "cit": "-",
+      "color": "#dec287"
+    },
+     {
+      "ttc": "Druid Flesh",
+      "cit": "Catachan Flesh",
+      "color": "#543d32"
+    },
+     {
+      "ttc": "Paladin Flesh",
+      "cit": "Blood Reaver Flesh",
+      "color": "#77564b"
+    },
+     {
+      "ttc": "Bard Skin",
+      "cit": "Knight Questor Flesh",
+      "color": "#946f61"
+    },
+     {
+      "ttc": "Hellspawn Red",
+      "cit": "-",
+      "color": "#be3a2e"
+    },
+     {
+      "ttc": Craven Yellow"",
+      "cit": "-",
+      "color": "#eceb69"
+    },
+     {
+      "ttc": "Gigawatt Blue",
+      "cit": "-",
+      "color": "#56b7e8"
+    },
+     {
+      "ttc": "Flaming Forge Orange",
+      "cit": "-",
+      "color": "#eaa545"
+    },
+     {
+      "ttc": "Talisman Green",
+      "cit": "-",
+      "color": "#7ac142"
+    },
+     {
+      "ttc": "Amulet Purple",
+      "cit": "-",
+      "color": "#bfacd3"
+    },
+     {
+      "ttc": "Dwarven Iron",
+      "cit": "Iron Warriors",
+      "color": "#91928e"
+    },
+     {
+      "ttc": "Battle Axe Brass",
+      "cit": "Runelord Brass",
+      "color": "#c09a74"
+    },
+     {
+      "ttc": "Steampunk Copper",
+      "cit": "Screaming Bell",
+      "color": "#be673f"
+    },
+     {
+      "ttc": "Overlord Brass",
+      "cit": "Castellax Bronze",
+      "color": "#b39471"
+    },
+     {
+      "ttc": "Top Brass",
+      "cit": "Sycorax Bronze",
+      "color": "#efb96d"
+    },
+     {
+      "ttc": "Platinum Crown",
+      "cit": "Canoptek Alloy",
+      "color": "#ede0ca"
+    },
+     {
+      "ttc": "Red Glaze",
+      "cit": "-",
+      "color": "#fbccba"
+    },
+     {
+      "ttc": "Yellow Glaze",
+      "cit": "-",
+      "color": "#f8f7c3"
+    },
+     {
+      "ttc": "Blue Glaze",
+      "cit": "-",
+      "color": "#b0bbe0"
+    },
+     {
+      "ttc": "Orange Glaze",
+      "cit": "-",
+      "color": "#fcbc89"
+    },
+     {
+      "ttc": "Green Glaze",
+      "cit": "-",
+      "color": "#c3e3ac"
+    },
+      {
+      "ttc": "Purple Glaze",
+      "cit": "-",
+      "color": "#cea7c7"
+    },
+      {
+      "ttc": "Hellion Red Wash",
+      "cit": "Carroburg Crimson",
+      "color": "#9e7371"
+    },
+      {
+      "ttc": "Tempest Blue Wash",
+      "cit": "Drakenhof Nightshade",
+      "color": "#2c465a"
+    },  {
+      "ttc": "Magi Purple Wash",
+      "cit": "Druchii Violet",
+      "color": "#6a516a"
     }
   ]
 }
