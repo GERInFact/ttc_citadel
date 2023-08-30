@@ -299,6 +299,21 @@
       "ttc": "ARCHAIC SEPIA WASH",
       "cit": "Seraphim Sepia",
       "color": "#9A7B66"
+    },
+    {
+      "ttc": "Perisher Pink",
+      "cit": "Pink Horror",
+      "color": "#ba6367"
+    },
+    {
+      "ttc": "Hot Pink",
+      "cit": "Emperor's Children",
+      "color": "#e284a6"
+    },
+    {
+      "ttc": "Neo Pink",
+      "cit": "Fulgrim Pink",
+      "color": "#f3bcd7"
     }
   ]
 }
