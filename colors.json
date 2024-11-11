@@ -600,5 +600,306 @@
       "cit": "Druchii Violet",
       "color": "#6A516A"
     }
+	{
+      "ttc": "Amphora Red",
+      "cit": "Gal Vorbak Red",
+      "color": "#481f24"
+    },
+	{
+      "ttc": "Emporer Red",
+      "cit": "Wazdakka Red",
+      "color": "#9f3041"
+    },
+	{
+      "ttc": "Centurion Red",
+      "cit": "Wild Rider Red",
+      "color": "#e83032"
+    },
+	{
+      "ttc": "Red Rage",
+      "cit": "N/A",
+      "color": "#6b342b"
+    },
+	{
+      "ttc": "Apocalypse Sky",
+      "cit": "N/A",
+      "color": "#e54d40"
+    },
+	{
+      "ttc": "Inferno Orange",
+      "cit": "N/A",
+      "color": "#a68e42"
+    },
+	{
+      "ttc": "Panzer Yellow",
+      "cit": "N/A",
+      "color": "#a68e42"
+    },
+	{
+      "ttc": "Flak Gun Yellow",
+      "cit": "N/A",
+      "color": "#c7ab5c"
+    },
+	{
+      "ttc": "Ambush Yellow",
+      "cit": "N/A",
+      "color": "#e4cc74"
+    },
+	{
+      "ttc": "Serpent Eye Yellow",
+      "cit": "Phalanx Yellow",
+      "color": "#f5d30e"
+    },
+	{
+      "ttc": "Sun Bleach Yellow",
+      "cit": "Dorn Yellow",
+      "color": "#f4e752"
+    },
+	{
+      "ttc": "Twin Suns Yellow",
+      "cit": "N/A",
+      "color": "#e5e9af"
+    },
+	{
+      "ttc": "War Master Green",
+      "cit": "Lupercal Green",
+      "color": "#394142"
+    },
+	{
+      "ttc": "Traitor Green",
+      "cit": "Sons of Horus Green",
+      "color": "#2d534f"
+    },
+	{
+      "ttc": "Legion Green",
+      "cit": "Sybarite Green",
+      "color": "#276c67"
+    },
+	{
+      "ttc": "Contagion Green",
+      "cit": "Death Guard Green",
+      "color": "#8e9f7f"
+    },
+	{
+      "ttc": "Zombie Rot",
+      "cit": "Ionrach Skin",
+      "color": "#b3b87a"
+    },
+	{
+      "ttc": "Pestilence Green",
+      "cit": "Deepkin Flesh",
+      "color": "#d4e197"
+    },
+	{
+      "ttc": "Oxidation Green",
+      "cit": "Stegadon Scale Green",
+      "color": "#33444d"
+    },
+	{
+      "ttc": "Antiquity Green",
+      "cit": "Sotek Green",
+      "color": "#317f7d"
+    },
+	{
+      "ttc": "Mythic Turquoise",
+      "cit": "Temple Guard Blue",
+      "color": "#589e9d"
+    },
+	{
+      "ttc": "Eldar Robe",
+      "cit": "Caledor Sky",
+      "color": "#1d5aa3"
+    },
+	{
+      "ttc": "Relic Blue",
+      "cit": "Teclis Blue",
+      "color": "#237fbe"
+    },
+	{
+      "ttc": "Seafarer Blue",
+      "cit": "Lothern Blue",
+      "color": "#469cc8"
+    },
+	{
+      "ttc": "Faust Blue",
+      "cit": "Dark Reaper",
+      "color": "#47525c"
+    },
+	{
+      "ttc": "Shadow Blue",
+      "cit": "Thunderhawk Blue",
+      "color": "#4f646c"
+    },
+	{
+      "ttc": "Frost Blue",
+      "cit": "Fenrisian Grey",
+      "color": "#79979f"
+    },
+	{
+      "ttc": "Von Evile Purple",
+      "cit": "Naggaroth Night",
+      "color": "#5a3764"
+    },
+	{
+      "ttc": "Enchantress Purple",
+      "cit": "Phoenician Purple",
+      "color": "#5a3764"
+    },
+	{
+      "ttc": "Spectral Purple",
+      "cit": "Kakophoni Purple",
+      "color": "#9a5a9b"
+    },
+	{
+      "ttc": "Incubus Purple",
+      "cit": "Daemonette Hide",
+      "color": "#6b6a6d"
+    },
+	{
+      "ttc": "Enticing Purple",
+      "cit": "Warpfiend Grey",
+      "color": "#817b8c"
+    },
+	{
+      "ttc": "Decadent Purple",
+      "cit": "Slaanesh Grey",
+      "color": "#c2bfd5"
+    },
+	{
+      "ttc": "Scabbard Brown",
+      "cit": "Thondia Brown",
+      "color": "#7c5e48"
+    },
+	{
+      "ttc": "Boot Strap Brown",
+      "cit": "Gorthor Brown",
+      "color": "#835f44"
+    },
+	{
+      "ttc": "Vambrace Brown",
+      "cit": "Baneblade Brown",
+      "color": "#9c755d"
+    },
+	{
+      "ttc": "Cyber Pink",
+      "cit": "Fulgrim Pink",
+      "color": "#c64c8b"
+    },
+	{
+      "ttc": "Elixir Green",
+      "cit": "Gauss Blaster Green",
+      "color": "#7cc78f"
+    },
+	{
+      "ttc": "Solar Flare",
+      "cit": "Lugganath Orange",
+      "color": "#f18021"
+    },
+	{
+      "ttc": "Ion Blue",
+      "cit": "Blue Horror",
+      "color": "#b7d8da"
+    },
+	{
+      "ttc": "Septic Green",
+      "cit": "N/A",
+      "color": "#cbab7b"
+    },
+	{
+      "ttc": "Pale Skin",
+      "cit": "Flayed One Flesh",
+      "color": "#cbab7b"
+    },
+	{
+      "ttc": "Scarab Red",
+      "cit": "N/A",
+      "color": "#bb4448"
+    },
+	{
+      "ttc": "Omega Blue",
+      "cit": "N/A",
+      "color": "#58bfbe"
+    },
+	{
+      "ttc": "Enchantment Blue",
+      "cit": "N/A",
+      "color": "#337fae"
+    },
+	{
+      "ttc": "Emporer's Purple",
+      "cit": "N/A",
+      "color": "#836493"
+    },
+	{
+      "ttc": "Carapace Green",
+      "cit": "N/A",
+      "color": "#4f9a5a"
+    },
+	{
+      "ttc": "Fire Opal",
+      "cit": "N/A",
+      "color": "#a56447"
+    },
+	{
+      "ttc": "Ancient Gold",
+      "cit": "N/A",
+      "color": "#6d5e3f"
+    },
+	{
+      "ttc": "Doom Metal",
+      "cit": "N/A",
+      "color": "#686559"
+    },
+	{
+      "ttc": "Chaos Bronze",
+      "cit": "Brass Scorpion",
+      "color": "#b59774"
+    },
+	{
+      "ttc": "Blue Steel",
+      "cit": "Grey Knights Steel",
+      "color": "#7e8c8b"
+    },
+	{
+      "ttc": "Heirloom Gold",
+      "cit": "Skullcrusher Brass",
+      "color": "#c8a058"
+    },
+	{
+      "ttc": "Bits O' Tin",
+      "cit": "Runeford Brass",
+      "color": "#6d6157"
+    },
+	{
+      "ttc": "Smoke Grey Wash",
+      "cit": "Soulblight Grey",
+      "color": "#c3bfb7"
+    },
+	
+	{
+      "ttc": "Hazard Yellow Wash",
+      "cit": "Casandora Yellow",
+      "color": "#c27555"
+    },
+	{
+      "ttc": "Aztec Turquoise Wash",
+      "cit": "Coelia Greenshade",
+      "color": "#596969"
+    },
+	{
+      "ttc": "Bone Wash",
+      "cit": "N/A",
+      "color": "#80645c"
+    },
+	{
+      "ttc": "Satin Varnish",
+      "cit": "StormShield",
+      "color": "#777475"
+    },
+	{
+      "ttc": "Gloss Varnish",
+      "cit": "N/A",
+      "color": "#666161"
+    }
   ]
 }
