@@ -897,9 +897,160 @@
       "color": "#777475"
     },
 	{
+      "ttc": "Blood Red Sky",
+      "cit": "N/A",
+      "color": "#593f32"
+    },
+	{
+      "ttc": "Flayer Red",
+      "cit": "N/A",
+      "color": "#d94045"
+    },
+	{
+      "ttc": "Diablo Red",
+      "cit": "N/A",
+      "color": "#e74e25"
+    },
+	{
+      "ttc": "Archon Orange",
+      "cit": "N/A",
+      "color": "#ed8433"
+    },
+	{
+      "ttc": "Pustule Ochre",
+      "cit": "N/A",
+      "color": "#e7b230"
+    },
+	{
+      "ttc": "Abhorrent Ochre",
+      "cit": "N/A",
+      "color": "#cba633"
+    },
+	{
+      "ttc": "Malign Yellow",
+      "cit": "N/A",
+      "color": "#d2b750"
+    },
+	{
+      "ttc": "Cultmaster Green",
+      "cit": "N/A",
+      "color": "#47605c"
+    },
+	{
+      "ttc": "Betrayer Green",
+      "cit": "N/A",
+      "color": "#5e7966"
+    },
+	{
+      "ttc": "Diabolical Green",
+      "cit": "N/A",
+      "color": "#3d4224"
+    },
+	{
+      "ttc": "Crypt Grey",
+      "cit": "N/A",
+      "color": "#99a189"
+    },
+	{
+      "ttc": "Altar Ivory",
+      "cit": "N/A",
+      "color": "#ebe9da"
+    },
+	{
+      "ttc": "Grindhouse Orange",
+      "cit": "N/A",
+      "color": "#b36648"
+    },
+	{
+      "ttc": "Masque Flesh",
+      "cit": "N/A",
+      "color": "#c4866d"
+    },
+	{
+      "ttc": "Noir Brown",
+      "cit": "N/A",
+      "color": "#5a4b38"
+    },
+	{
+      "ttc": "Cinderborn Brown",
+      "cit": "N/A",
+      "color": "#997462"
+    },
+	{
+      "ttc": "Dystopian Dust",
+      "cit": "N/A",
+      "color": "#bda599"
+    },
+	{
+      "ttc": "Blight Cream",
+      "cit": "N/A",
+      "color": "#f3e7d2"
+    },
+	{
+      "ttc": "Divination White",
+      "cit": "N/A",
+      "color": "#f8f7ed"
+    },
+	{
+      "ttc": "Animus Black",
+      "cit": "N/A",
+      "color": "#414740"
+    },
+	{
+      "ttc": "Cherubic White",
+      "cit": "N/A",
+      "color": "#fbfbf8"
+    },
+	{
+      "ttc": "Old Brown Metal",
+      "cit": "N/A",
+      "color": "#a59275"
+    },
+	{
+      "ttc": "Ancient Iron",
+      "cit": "N/A",
+      "color": "#b49679"
+    },
+	{
+      "ttc": "Ironclad Silver",
+      "cit": "N/A",
+      "color": "#a89271"
+    },
+	{
+      "ttc": "Brown Ink",
+      "cit": "N/A",
+      "color": "#4d5045"
+    },
+	{
+      "ttc": "Warm Brown Ink",
+      "cit": "N/A",
+      "color": "#8b2411"
+    },
+	{
+      "ttc": "Deep Red Ink",
+      "cit": "N/A",
+      "color": "#b26b56"
+    },
+	{
+      "ttc": "Tobacco Ink",
+      "cit": "N/A",
+      "color": "#e6c46f"
+    },
+	{
+      "ttc": "Black Ink",
+      "cit": "N/A",
+      "color": "#7e8276"
+    },
+	{
+      "ttc": "White Ink",
+      "cit": "N/A",
+      "color": "#fcfdf7"
+    },
+	{
       "ttc": "Gloss Varnish",
       "cit": "N/A",
       "color": "#666161"
     }
+
   ]
 }
