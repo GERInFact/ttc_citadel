@@ -1,8 +1,11 @@
 const $galleryList = document.querySelector(".galleryList");
 const $searchField = document.querySelector("#searchField");
-const $btnSearch = document.querySelector("#btnSearch");
+const $searchForm = document.querySelector("#searchForm");
 
-$btnSearch.addEventListener("click", () => search($searchField));
+$searchForm.addEventListener("submit", (e) => {
+  e.preventDefault();
+  search($searchField);
+});
 
 search($searchField);
 
